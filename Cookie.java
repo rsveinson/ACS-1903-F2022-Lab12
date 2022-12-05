@@ -1,10 +1,12 @@
 /** 
  * ACS-1903 Lab 12 Q7
- * @author (enter your name and student number here)
+ * @key
 */
 public class Cookie{
     // fields
     private String flavour;
+    
+    // the associatino field is a Jar object
     private Jar jar;
     
     // constructors
